@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home lab](https://github.com/ajchikoka/LABURL)
+  - [Active Directory Home lab](https://github.com/ajchikoka/ActiveDirectoryLab)
 
 
 <h2> 🤳 Connect with me:</h2>
